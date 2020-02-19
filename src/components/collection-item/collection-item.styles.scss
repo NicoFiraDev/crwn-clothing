@@ -1,5 +1,6 @@
 .collection-item {
-  width: 22%;
+  // width: 22%; this was a change made by the teacher but it looks weird in my pc
+  width: 22VW;
   display: flex;
   flex-direction: column;
   height: 350px;
